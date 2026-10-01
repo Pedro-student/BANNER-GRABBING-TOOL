@@ -1,0 +1,22 @@
+{
+    "alvo": "127.0.0.1",
+    "IPalvo": "127.0.0.1",
+    "scan_time": "2026-10-01 03:08:07.372389",
+    "portasabertas": [
+        {
+            "port": 22,
+            "status": "open",
+            "banner": "SSH-2.0-OpenSSH_9.9p1 Debian-3\r\nInvalid SSH identification string."
+        },
+        {
+            "port": 80,
+            "status": "open",
+            "banner": "HTTP/1.1 200 OK\r\nDate: Thu, 01 Oct 2026 07:08:07 GMT\r\nServer: Apache/2.4.68 (Debian)\r\nLast-Modified: Wed, 23 Apr 2025 08:18:11 GMT\r\nETag: \"29cf-6336dbdec0f40\"\r\nAccept-Ranges: bytes\r\nContent-Length: 10703\r\nVary: Accept-Encoding\r\nContent-Type: text/html"
+        },
+        {
+            "port": 3306,
+            "status": "open",
+            "banner": "`\u0000\u0000\u0000\n11.8.8-MariaDB-1 from Debian\u0000\u000e\u0000\u0000\u0000lR7[E):)\u0000-\u0002\u0000\u0015\u0000\u0000\u0000\u0000\u0000\u0000=\u0000\u0000\u0000]yh}]9B\"!|o;\u0000mysql_native_password\u0000"
+        }
+    ]
+}
