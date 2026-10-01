@@ -1,5 +1,6 @@
 # Red Team Reconnaissance & Banner Grabbing Tool
 
+Aviso Legal: Esta ferramenta foi desenvolvida estritamente para fins educacionais e testes de intrusão autorizados. O autor não se responsabiliza por qualquer uso indevido ou danos causados pelo software em redes de terceiros. Utilize apenas em ambientes controlados e com permissão explícita.
 
 
 > **Projeto Pratico de Ciberseguranca:** Criacao de uma ferramenta modular em Python para reconhecimento de rede, varredura de portas TCP e captura de banners de servicos, com foco em automacao e analise ofensiva.
